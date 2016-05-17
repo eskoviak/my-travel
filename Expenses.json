@@ -1,0 +1,20 @@
+{
+    "Expense Items":
+    [
+        {
+            "Date":"05/16/2016",
+            "Type":"Transportation",
+            "Amount":20.00
+        },
+        {
+            "Date":"05/16/2016",
+            "Type":"Meal",
+            "Amount":3.50
+         },
+         {
+             "Date":"05/16/2016",
+             "Type":"Airfare",
+             "Amount":483.00
+         }
+     ]
+}
